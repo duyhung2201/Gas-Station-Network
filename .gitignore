@@ -1,0 +1,8 @@
+build/contracts
+
+.openzeppelin/.session
+./node_modules
+node_modules
+.env
+.openzeppelin
+client/.env
